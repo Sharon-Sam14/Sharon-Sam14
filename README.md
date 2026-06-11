@@ -52,6 +52,6 @@
 </p>
 <p align="center">
   <a href="https://github.com/Sharon-Sam14">
-    <img width="80%" src="https://streak-stats.demolab.com?user=Sharon-Sam14&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&date_format=j%20M%5B%20Y%5D" />
+    <img width="80%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sharon-Sam14&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true" />
   </a>
 </p>
