@@ -40,7 +40,6 @@
 ---
 
 ## Github Stats:
-
 <p align="center">
     <a href="https://github.com/Sharon-Sam14">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sharon-Sam14&langs_count=8&layout=compact&theme=onedark&hide_border=true" />
@@ -53,6 +52,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/Sharon-Sam14">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-Sam14&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" />
+    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharon-Sam14&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true&count_private=true" />
   </a>
+</p>
 </p>
