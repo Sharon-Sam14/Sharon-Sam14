@@ -38,7 +38,6 @@
 * **[Mal-Login Detection System](https://github.com/Sharon-Sam14/mal-login-detection-system)**: Contributed to an AI-powered login intrusion detection system that identifies malicious authentication attempts using machine learning techniques.
 
 ---
-
 ## Github Stats:
 <p align="center">
     <a href="https://github.com/Sharon-Sam14">
@@ -56,6 +55,6 @@
   </a>
   &nbsp;
   <a href="https://github.com/Sharon-Sam14">
-    <img height="180em" src="https://streak-stats.demolab.com?user=Sharon-Sam14&theme=onedark&hide_border=true&count_private=true&date_format=j%20M%5B%20Y%5D" />
+    <img height="180em" src="https://streak-stats.demolab.com?user=Sharon-Sam14&theme=onedark&hide_border=true&count_private=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true" />
   </a>
 </p>
