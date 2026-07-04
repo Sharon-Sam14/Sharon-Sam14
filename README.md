@@ -34,9 +34,14 @@
 ### 🚀 Featured Projects
 
 * **[Cura](https://github.com/Sharon-Sam14/Cura)**: Built a cloud-based healthcare management platform using React.js and TypeScript, enabling streamlined patient care, appointment workflows, and role-based access for healthcare teams.
+
 * **[SmartPantry](https://github.com/Sharon-Sam14/smartpantry)**: Developed a full-stack kitchen intelligence platform with React, TypeScript, Vite, and Django REST Framework — featuring AI-powered recipe discovery and pantry management backed by PostgreSQL/SQLite.
-* **[NexusHR](https://github.com/Sharon-Sam14/NexusHR)**: Engineered an enterprise-grade HR management dashboard in JavaScript that centralizes employee operations, payroll, attendance tracking, and workforce analytics in a single platform.
+
+* **[NexusHR](https://github.com/Sharon-Sam14/NexusHR)**: Engineered an enterprise-grade HR management dashboard that centralizes employee operations, payroll, attendance tracking, and workforce analytics in a single platform.
+
 * **[Mal-Login Detection System](https://github.com/Sharon-Sam14/mal-login-detection-system)**: Contributed to an AI-powered login intrusion detection system that identifies malicious authentication attempts using machine learning techniques.
+
+* **[AudioDrip](https://github.com/Sharon-Sam14/AudioDrip)**: Built a premium music streaming platform featuring real-time audio streaming, offline song caching for zero-buffer playback, synchronized auto-scrolling lyrics, and an interactive audio frequency visualizer for an immersive listening experience.
 
 ---
 ## Github Stats:
