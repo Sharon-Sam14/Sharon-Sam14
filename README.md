@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>there, I'm Sharon Sam </h1>
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, I'm Sharon Sam </h1>
 <h3 align="center">Full-Stack Developer | Building Modern Web Experiences with React, TypeScript & Django</h3>
 <p align="center">
   <a href="https://linkedin.com/in/sharon-sam-6b1836290"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
