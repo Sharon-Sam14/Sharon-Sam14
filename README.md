@@ -10,11 +10,12 @@
 
 ### 👩‍💻 About Me
 
-* 🎓 Undergrad student majoring in **Computer Engineering (with a Data Science Honours track)** at SFIT.
-* 🏛️ Serving as **Vice President of Codex** — the technical committee at SFIT — leading initiatives, organizing events, and fostering a culture of innovation among student developers.
-* 🌐 Passionate about building **full-stack websites** with clean, responsive frontends and robust backends that scale.
-* 🚀 Always exploring and learning **modern technologies** — from new frameworks to emerging tools that push the boundaries of what the web can do.
-* 🎯 Currently seeking opportunities to build impactful, high-performance tech solutions.
+- 🎓 Final-year **Computer Engineering** undergraduate with a **Data Science Honours** track at **St. Francis Institute of Technology (SFIT)**.
+- 🎖️ Former **Vice President of Codex**, the technical committee at SFIT, where I led technical initiatives, organized events, and fostered a culture of innovation among student developers.
+- 🤝 Currently serving as an **Advisor** to the Codex core committee, mentoring student leaders and supporting technical and organizational initiatives.
+- 🌐 Passionate about building scalable **full-stack applications** with intuitive user experiences and robust backend architectures.
+- 🚀 Continuously exploring modern technologies, AI-powered development, and cloud-native solutions.
+- 💼 Open to software engineering and full-stack development opportunities where I can contribute, learn, and build impactful products.
 
 ---
 
