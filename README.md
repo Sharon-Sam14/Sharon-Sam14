@@ -1,9 +1,17 @@
-<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, I'm Sharon Sam </h1>
+
+<h1 align="center">Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, I'm Sharon Sam</h1>
 <h3 align="center">Full-Stack Developer | Building Modern Web Experiences with React, TypeScript & Django</h3>
+
 <p align="center">
-  <a href="https://linkedin.com/in/sharon-sam-6b1836290"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:sharonsam1401@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://portfoliosh2.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/></a>
+  <a href="https://linkedin.com/in/sharon-sam-6b1836290">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:sharonsam1401@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://portfoliosh2.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </p>
 
 ---
@@ -21,13 +29,31 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+**Languages:**
 
-**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-**Backend & Databases:** ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+**Frontend:**
 
-**Tools:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Databases:**
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools:**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
@@ -44,17 +70,21 @@
 * **[AudioDrip](https://github.com/Sharon-Sam14/AudioDrip)**: Built a premium music streaming platform featuring real-time audio streaming, offline song caching for zero-buffer playback, synchronized auto-scrolling lyrics, and an interactive audio frequency visualizer for an immersive listening experience.
 
 ---
-## Github Stats:
-<p align="center">
-    <a href="https://github.com/Sharon-Sam14">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sharon-Sam14&langs_count=8&layout=compact&theme=onedark&hide_border=true" />
-    </a>
-</p>
+
+## 📊 GitHub Stats
+
 <p align="center">
   <a href="https://github.com/Sharon-Sam14">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Sharon-Sam14&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sharon-Sam14&langs_count=8&layout=compact&theme=onedark&hide_border=true" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Sharon-Sam14">
+    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=Sharon-Sam14&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/Sharon-Sam14">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sharon-Sam14&show_icons=true&count_private=true&include_all_commits=true&theme=onedark&hide_border=true" />
@@ -63,4 +93,22 @@
   <a href="https://github.com/Sharon-Sam14">
     <img height="180em" src="https://streak-stats.demolab.com?user=Sharon-Sam14&theme=onedark&hide_border=true&count_private=true&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true" />
   </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharon-Sam14/Sharon-Sam14/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharon-Sam14/Sharon-Sam14/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Sharon-Sam14/Sharon-Sam14/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  ⭐ From <a href="https://github.com/Sharon-Sam14">Sharon Sam</a>
 </p>
